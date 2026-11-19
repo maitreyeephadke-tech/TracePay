@@ -87,3 +87,8 @@ Date,Description,Amount,Type
 2026-11-03,Salary,25000,Credit
 2026-11-04,Netflix,649,Debit
 ```
+## Project Repository
+
+Source code and project documentation:
+
+https://github.com/maitreyeephadke-tech/TracePay
